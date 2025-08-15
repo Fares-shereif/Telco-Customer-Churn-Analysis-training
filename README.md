@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-Hey there! Welcome to my Telco Customer Churn Analysis project! I'm diving into the Telco Customer Churn dataset to figure out why customers might leave their telecom services. Using some cool techniques like K-means clustering to group customers and machine learning models (Logistic Regression and Random Forest) to predict churn, I’ve also thrown in some fun visualizations to tell the story behind the data.
+Welcome to my Telco Customer Churn Analysis project! I'm diving into the Telco Customer Churn dataset to figure out why customers might leave their telecom services. Using some techniques like K-means clustering to group customers and machine learning models (Logistic Regression and Random Forest) to predict churn, I’ve also thrown in some fun visualizations to tell the story behind the data.
 
 ## Dataset
 - **Where to Find It**: Grab the dataset from [Kaggle’s Telco Customer Churn page](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
